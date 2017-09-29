@@ -6,7 +6,7 @@
  * Time: 08:11
  */
 
-require 'lib_funcoes.php';
+require 'lib_funcoes_operacoes.php';
 
 $num = [];
 $i = 0;
